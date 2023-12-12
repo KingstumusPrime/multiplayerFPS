@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plasma Rifle (DOOM 2016)
+* source:	https://sketchfab.com/3d-models/plasma-rifle-doom-2016-4fdfc53fc1ee492e88b425b77976800b
+* author:	Frostoise (https://sketchfab.com/Frostoise)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plasma Rifle (DOOM 2016)" (https://sketchfab.com/3d-models/plasma-rifle-doom-2016-4fdfc53fc1ee492e88b425b77976800b) by Frostoise (https://sketchfab.com/Frostoise) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

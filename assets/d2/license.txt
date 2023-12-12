@@ -1,0 +1,11 @@
+Model Information:
+* title:	TDM Map Environment FPS- Low Poly
+* source:	https://sketchfab.com/3d-models/tdm-map-environment-fps-low-poly-7c0c0eb0720644b1b628a27f693654e5
+* author:	Logicgo Infotech (https://sketchfab.com/logicgo_infotech)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TDM Map Environment FPS- Low Poly" (https://sketchfab.com/3d-models/tdm-map-environment-fps-low-poly-7c0c0eb0720644b1b628a27f693654e5) by Logicgo Infotech (https://sketchfab.com/logicgo_infotech) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

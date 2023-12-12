@@ -1,0 +1,11 @@
+Model Information:
+* title:	Super Shotgun (Doom Eternal)
+* source:	https://sketchfab.com/3d-models/super-shotgun-doom-eternal-964c0b4839c64e37bdbeefee8a2e242b
+* author:	Meredith Ms (https://sketchfab.com/meredit.manson.00)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Super Shotgun (Doom Eternal)" (https://sketchfab.com/3d-models/super-shotgun-doom-eternal-964c0b4839c64e37bdbeefee8a2e242b) by Meredith Ms (https://sketchfab.com/meredit.manson.00) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
